@@ -22,5 +22,6 @@ Notes:
 - used yandex geocoder to find a default comparison point(coordinates).
 - used Haversine formula, which calculates the great-circle distance between two points.
 - used marshamallow module schemas for requests input data type control.
+- used flask blueprints for the get distance service.
 - you can modify the default coordinate, its in app.py document.
 - you can also modify the default area range to check if a given coordinate is inside an area coordinates range.

@@ -6,7 +6,7 @@ How to use:
 - clone this repo, go to project directory with terminal, type python app.py
 - go to your browser and test it by entring localhost:5000/, you should be able to see a reply if its succesfull
 
-To use get-distance endpoint use postman or python requests module.
+To use get-distance endpoint first you need to acquire yandex geocoder api key (you can get one for free), next use postman or python requests module.
 
 The expected request input: 
 

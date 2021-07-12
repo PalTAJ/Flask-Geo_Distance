@@ -27,7 +27,7 @@ def getDistance():
         return {404: 'not found'}
 
 
-    client = Client("2c9e95af-b5d9-4e29-b581-1a4324dc810e")
+    client = Client("enter your code")
     default_coordinates = client.coordinates("Moscow Ring Road")  # get default coordinates (Moscow ring road)
     print(default_coordinates)
 

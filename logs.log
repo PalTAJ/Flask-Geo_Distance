@@ -1,0 +1,17 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 252-579-445
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 252-579-445
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): geocode-maps.yandex.ru:443
+DEBUG:urllib3.connectionpool:https://geocode-maps.yandex.ru:443 "GET /1.x/?format=json&apikey=2c9e95af-b5d9-4e29-b581-1a4324dc810e&geocode=Moscow+Ring+Road HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2021 16:57:49] "[37mPOST /get-distance HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Taj\\Desktop\\work\\geocoder\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Taj\\Desktop\\work\\geocoder\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Taj\\Desktop\\work\\geocoder\\app.py', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 252-579-445
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
